@@ -1,3 +1,2 @@
 # fall2019-helloworld
-test to see if this works
-testing one more time.
+Welcome to my repository for Hello World. Hardest assignment of the year. 
